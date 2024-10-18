@@ -1,0 +1,12 @@
+input{
+    width: 300pxs;
+
+
+}
+form{
+    margin: 10px;
+}
+button{
+    background-color: green;
+    color: white;
+}
